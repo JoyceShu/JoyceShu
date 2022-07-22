@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoyceShu
-- 👀 MS, Computer Software Engineering, Northeastern University.
+- 👀 MSCSE, Northeastern University.
 - ✨ Connect me via Linkedin: https://www.linkedin.com/in/joyceshu/
 <!---
 JoyceShu/JoyceShu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
