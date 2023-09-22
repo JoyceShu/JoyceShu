@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoyceShu
+- 👋 Hi, I’m Joyce
 - 👀 MSCSE, @Northeastern University.
 - ✨ Connect with me via Linkedin: https://www.linkedin.com/in/joyceshu/
 <!---
